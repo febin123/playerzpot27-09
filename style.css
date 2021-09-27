@@ -294,7 +294,7 @@ padding: 2vw;
   .wrapper .box{
     background: #fff;
     width: 25vw ;
-    padding: 25px;
+    padding: 1vw;
     border-radius: 3px;
     box-shadow: 0px 4px 8px rgba(0,0,0,0.15);
   }
